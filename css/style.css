@@ -1,0 +1,19 @@
+h1 {
+  font-size: 5rem;
+  font-weight: 900;
+  font-family: Impact;
+  color: black;
+}
+button {
+  background-color: blue;
+  padding: 27px 90px;
+  color: white;
+  font-size: 0.8rem;
+}
+button:hover {
+  background-color: green;
+}
+p {
+  font-size: 2rem;
+  color: black;
+}
